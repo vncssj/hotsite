@@ -89,7 +89,7 @@
 				HelpDogs
 			</div>
 			<div class="prototipo">
-				<img src="smartphone.png" />
+				<img src="https://github.com/vncssj/hotsite/blob/master/smartphone.png" />
 			</div>
 			<div class="objetivo-individual">
 				Feito para ajudar ONG's que respeitam, recebem, cuidam e protegem os animais abandonados e maltratados.
@@ -102,7 +102,7 @@
 				HistoVet
 			</div>
 			<div class="prototipo">
-				<img src="smartphone.png" />
+				<img src="https://github.com/vncssj/hotsite/blob/master/smartphone.png" />
 			</div>
 			<div class="objetivo-individual">
 				Feito para profissionais que há anos buscam uma forma eficiente e móvel de administrar seus pacientes
@@ -114,10 +114,7 @@
 		<div class="titulo-principal">
 			Objetivo
 		</div>
-		<div class="objetivo">
-			Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi nobis totam enim provident numquam
-			dignissimos dicta eos voluptatum, fuga mollitia facere facilis saepe perferendis impedit quae voluptas
-			obcaecati aliquam eaque.
+		<div class="objetivo">Ter sensibilidade para com o próximo é essencial, porém o nosso objetivo se destaca parte humanitária por parte dos cuidados de animais carentes, tanto adoção quanto a parte de cuidados hospitalares.
 		</div>
 		<div class="titulo-principal">
 			Sprints
